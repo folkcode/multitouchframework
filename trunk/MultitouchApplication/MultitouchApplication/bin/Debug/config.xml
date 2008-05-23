@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Gestures>
+    <RecognisePercentage>0.8</RecognisePercentage>
+  </Gestures>
+  <MTControls>
+    <ClickImage>Adorner\Icons\Click.gif</ClickImage>
+    <DragImage>Adorner\Icons\Drag.gif</DragImage>
+    <ScaleImage>Adorner\Icons\Scale.gif</ScaleImage>
+    <RotateImage>Adorner\Icons\Rotate.gif</RotateImage>
+    <KeyboardImage>Adorner\Icons\ShowKeyboard.gif</KeyboardImage>
+  </MTControls>
+  <MTDebug />
+  <MTManager />
+  <TouchLib>
+    <ConnectionIP>127.0.0.1</ConnectionIP>
+    <ConnectionPort>3333</ConnectionPort>
+  </TouchLib>
+</Settings>
