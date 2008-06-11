@@ -32,6 +32,7 @@ namespace MTFramework
             _processing.GestureModuleEnabled = true;
             _processing.SimulationEnabled = true;
             _processing.GestureRecognised += new RecognisedGestureHandler(processing_GestureRecognised);
+            _processing.ShowFingerPos = true;
 
             Rectangle rect = new Rectangle();
             rect.Height = 206;
@@ -46,14 +47,6 @@ namespace MTFramework
             this.mTCanvas1.Children.Add(rect);
             MTCanvas.SetLeft(rect, 370);
             MTCanvas.SetTop(rect, 316);
-
-            mTButton3.NotMoved += new NotMovedEventArgs(mTButton3_NotMoved);
-            mTButton3.Timeout = 1500;
-        }
-
-        void mTButton3_NotMoved(object sender, EventArgs args)
-        {
-            _processing.WriteToDebug("Finger not moved!");
         }
 
         void processing_GestureRecognised(object sender, RecognisedGestureEventArgs rg)
@@ -86,11 +79,6 @@ namespace MTFramework
 
             imageCar.Width = this._width * (1 + (e.NewValue / 10));
             imageCar.Height = this._height * (1 + (e.NewValue / 10));
-        }
-
-        private void mTButton3_Click(object sender, RoutedEventArgs e)
-        {
-            _processing.WriteToDebug("button 3 clicked!");
         }
     }
 }

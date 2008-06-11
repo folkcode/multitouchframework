@@ -35,23 +35,23 @@
   <ItemGroup>
     <Reference Include="Debug, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\Debug.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\share\Multitouch eigen projecten\Jurjen\MTFramework\MTFramework\bin\Debug\Debug.dll</HintPath>
     </Reference>
     <Reference Include="Gestures, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\Gestures.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\share\Multitouch eigen projecten\Jurjen\MTFramework\MTFramework\bin\Debug\Gestures.dll</HintPath>
     </Reference>
     <Reference Include="MTControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\MTControls.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\share\Multitouch eigen projecten\Jurjen\MTFramework\MTFramework\bin\Debug\MTControls.dll</HintPath>
     </Reference>
     <Reference Include="MTFrameworkEvents, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\MTFrameworkEvents.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\share\Multitouch eigen projecten\Jurjen\MTFramework\MTFramework\bin\Debug\MTFrameworkEvents.dll</HintPath>
     </Reference>
     <Reference Include="MTManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\MTManager.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\share\Multitouch eigen projecten\Jurjen\MTFramework\MTFramework\bin\Debug\MTManager.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
@@ -67,7 +67,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="TuioLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\TuioLib.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\share\Multitouch eigen projecten\Jurjen\MTFramework\MTFramework\bin\Debug\TuioLib.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
