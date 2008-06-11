@@ -34,3 +34,15 @@ C:\Documents and Settings\draaijerjj.TSN\Desktop\WPF MTFramework\MultitouchAppli
 C:\Documents and Settings\draaijerjj.TSN\Desktop\WPF MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication.g.resources
 C:\Documents and Settings\draaijerjj.TSN\Desktop\WPF MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication.Properties.Resources.resources
 C:\Documents and Settings\draaijerjj.TSN\Desktop\WPF MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication.exe
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication.pdb
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\Window1.baml
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\Window1.g.cs
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\App.g.cs
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication_MarkupCompile.cache
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication.g.resources
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication.Properties.Resources.resources
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\obj\Debug\MultitouchApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\bin\Debug\MultitouchApplication.exe
+C:\Documents and Settings\mt\Desktop\Google project checkout MTFramework\MultitouchApplication\MultitouchApplication\bin\Debug\MultitouchApplication.pdb

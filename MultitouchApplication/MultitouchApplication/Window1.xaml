@@ -40,6 +40,5 @@
             <my1:MTButton Grid.Row="1" Margin="41,57,39,66" Name="mTButton2" CanBeDragged="True" HorizontalAlignment="Stretch">Button</my1:MTButton>
             <my1:MTGridSplitter HorizontalAlignment="Stretch" Name="mTGridSplitter2" Grid.ColumnSpan="2" Height="18" VerticalAlignment="Bottom" />
         </my1:MTGrid>
-        <my1:MTButton Canvas.Left="37" Canvas.Top="564" Height="70" Name="mTButton3" Width="153" CanBeClicked="True" CanBeDragged="True" CanBeRotated="True" CanBeScaled="True" Click="mTButton3_Click">Button</my1:MTButton>
     </my1:MTCanvas>
 </Window>
